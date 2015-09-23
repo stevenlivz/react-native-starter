@@ -1,6 +1,7 @@
 # react-native-starter
 
 git clone https://github.com/stevenlivz/react-native-starter.git
+
 cd react-native-starter && npm install
 
 To run in android:
